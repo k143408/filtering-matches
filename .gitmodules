@@ -1,0 +1,6 @@
+[submodule "filtering-matches-backend"]
+	path = filtering-matches-backend
+	url = https://github.com/k143408/filtering-matches-backend.git
+[submodule "filtering-matches-frontend"]
+	path = filtering-matches-frontend
+	url = https://github.com/k143408/filtering-matches-frontend.git
